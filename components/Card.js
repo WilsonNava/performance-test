@@ -13,7 +13,7 @@ const Card = ({
       width: '10rem',
     }}
   >
-    <Image className="card-img-top" imageUrl={image} alt="Card cap" size={[150]} />
+    <Image className="card-img-top" imageUrl={image} alt="Card cap" sizes={[150]} />
     <div className="card-body">
       <h5 className="card-title text-center">{title}</h5>
     </div>

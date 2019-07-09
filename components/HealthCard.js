@@ -24,7 +24,7 @@ const HealthCard = ({
               imageUrl={image}
               alt="Nothing to sneeze at. Get relief from seasonal allergies with Zyrtec, Flonase, and more."
               aria-hidden="true"
-              size={[150]}
+              sizes={[150]}
               style={{
                 position: 'absolute',
                 width: '100%',
